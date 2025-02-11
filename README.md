@@ -1,5 +1,9 @@
 <h1>Projedata Teste</h1>
 
+<p>Considerando que uma indústria possui as pessoas/funcionários abaixo:</p>
+
+<p>Diante disso, você deve desenvolver um projeto java, com os seguintes requisitos:</p>
+
 <p>1– Classe Pessoa com os atributos: nome (String) e data nascimento (LocalDate).</p>
 
 <p>2 – Classe Funcionário que estenda a classe Pessoa, com os atributos: salário (BigDecimal) e função (String).</p>
