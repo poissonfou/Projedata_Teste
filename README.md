@@ -25,4 +25,4 @@
 <li>3.12 – Imprimir quantos salários mínimos ganha cada funcionário, considerando que o salário mínimo é R$1212.00.</li>
 </ul>
 <hr>
-<img src="https://github.com/user-attachments/assets/aa45dbcf-e7da-48a4-b44a-13bd7a253ef2"/>
+<img src="https://github.com/user-attachments/assets/d6f47434-deb5-48c8-a6bb-404a4832205c"/>
